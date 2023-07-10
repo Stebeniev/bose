@@ -95,7 +95,7 @@ section {
     color: #292929;
 }
 .how-to-buy__title {
-    margin: 550px auto 64px auto;
+    margin: 600px auto 64px auto;
     flex-basis: 50%;
     font-size: 48px;
     line-height: 100%;
@@ -163,7 +163,7 @@ section {
     gap: 24px;
 }
 .how-to-buy__benefits {
-    margin: 550px auto 64px auto;
+    margin: 600px auto 64px auto;
     list-style: none;
     padding: 0;
     font-weight: bold;
